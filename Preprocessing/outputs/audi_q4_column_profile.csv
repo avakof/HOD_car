@@ -1,0 +1,65 @@
+,dtype,missing_count,missing_percentage,unique_count,example
+vat_deductible,float64,2517,100.0,0,
+delivery_possible,object,2503,99.44378228049266,1,True
+has_360_image,object,2488,98.84783472387764,1,True
+secondary_scrape_error,object,2480,98.52999602701628,37,Failed to fetch https://www.autoscout24.com/offers/audi-q4-e-tron-q4-40-e-tron-150-kw-navi-led-rfk-shz-vc-electric-grey-e3262e27-11be-466f-8fc9-bc9dadf09382: HTTP Error 410: Gone
+raw_card_text,object,2460,97.73539928486294,55,"Audi Q4 e-tron Q4 e-tron 40 S line Nav/EPH/20""/SHZ/optik/Klima Add to list 10 € 34,8151 03/2024 21,155 km Electric 150 kW (204 hp) Deisenroth & Söhne GmbH & Co. KG DE-36304 Alsfeld"
+electric_range_city,object,2398,95.27214938418751,73,669 km
+damage_conditions,object,2384,94.71593166468017,1,Repaired
+battery_charging_time,object,2377,94.4378228049265,13,1 min
+battery_ownership,object,2339,92.92808899483512,1,Included
+warranty_text,object,1913,76.00317838696861,28,36 months
+wltp_consumption,object,1399,55.58204211362734,54,16.1 kWh/100 km (comb.)
+wltp_co2_emissions,object,1399,55.58204211362734,4,0 g/km (comb.)
+sold_timestamp,float64,1365,54.23122765196663,19,20260424.0
+sold_in_file,object,1365,54.23122765196663,19,scrape_audi_q4_20260424_secondary.csv
+paint_type,object,354,14.064362336114423,2,Metallic
+had_accident,object,326,12.951926897099723,1,False
+seller_rating_stars,float64,187,7.429479539133889,5,4.5
+seller_rating_count,float64,187,7.429479539133889,183,38.0
+seat_count,float64,175,6.952721493841875,2,5.0
+previous_owner_count,float64,138,5.482717520858165,4,1.0
+price_superscript,float64,99,3.9332538736591176,1,1.0
+interior_color,object,87,3.4564958283671037,7,Black
+available_now,object,83,3.297576479936432,1,True
+upholstery_material,object,83,3.297576479936432,6,Cloth
+electric_range,object,76,3.0194676201827573,206,498 km
+door_count,float64,67,2.6618990862137464,2,5.0
+exterior_color,object,49,1.9467620182757253,7,Black
+street,object,43,1.7083829956297178,423,Metternichstraße 37
+seller_name,object,43,1.7083829956297178,348,Audi Zentrum Trier GW
+seller_imprint_url,object,43,1.7083829956297178,425,https://www.autoscout24.com/dealerinfo/audi-zentrum-trier-gw/imprint
+has_full_service_history,object,38,1.5097338100913786,2,True
+body_type,object,37,1.4700039729837107,5,SUV/Off-Road/Pick-Up
+warranty_exists,object,37,1.4700039729837107,2,True
+primary_image_url,object,25,0.9932459276916964,2455,https://prod.pictures.autoscout24.net/listing-images/39f056dc-fe26-4544-8333-4edabfca1f5b_95e08b10-aabf-4855-9547-64ec693c1585.jpg/250x188.webp
+seller_phone,object,21,0.834326579261025,427,+49 (0)651 - 1701555
+model_group,object,13,0.5164878823996821,1,Q4 e-tron
+variant,object,13,0.5164878823996821,2,Q4 e-tron
+power_kw,float64,3,0.11918951132300357,11,210.0
+power_hp,float64,3,0.11918951132300357,11,286.0
+first_seen_timestamp,int64,0,0.0,20,20260423
+secondary_scrape_status,object,0,0.0,2,ok
+first_seen_file,object,0,0.0,20,scrape_audi_q4_20260423_secondary.csv
+last_seen_timestamp,int64,0,0.0,20,20260423
+last_seen_file,object,0,0.0,20,scrape_audi_q4_20260423_secondary.csv
+listing_id,object,0,0.0,2389,39f056dc-fe26-4544-8333-4edabfca1f5b
+listing_url,object,0,0.0,2517,https://www.autoscout24.com/offers/audi-q4-e-tron-45-electric-black-39f056dc-fe26-4544-8333-4edabfca1f5b
+fuel_or_powertrain,object,0,0.0,2,Electric
+subtitle,object,0,0.0,1973,45
+transmission,object,0,0.0,3,Automatic
+price,object,0,0.0,1278,"46,980"
+currency,object,0,0.0,1,€
+is_conditional_price,bool,0,0.0,2,False
+mileage,object,0,0.0,1821,"9,900 km"
+first_registration,object,0,0.0,60,08/2025
+seller_type,object,0,0.0,2,Dealer
+title,object,0,0.0,1972,Audi Q4 e-tron 45
+dealer_id,int64,0,0.0,462,9553122
+seller_info_url,object,0,0.0,462,https://www.autoscout24.com/dealerinfo/audi-zentrum-trier-gw?atype=C
+seller_location,object,0,0.0,440,DE-54292 Trier
+country_code,object,0,0.0,1,DE
+zip_code,int64,0,0.0,435,54292
+city,object,0,0.0,391,Trier
+image_count,int64,0,0.0,39,9
+status,object,0,0.0,2,sold_or_removed
