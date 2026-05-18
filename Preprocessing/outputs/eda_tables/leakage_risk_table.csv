@@ -1,0 +1,17 @@
+dataset,column,present,risk
+lifecycle_clean,status,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,sold_flag,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,is_censored,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,observed_days,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,days_until_sold_or_removed,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,sold_timestamp,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,sold_timestamp_dt,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,sold_in_file,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,last_seen_timestamp,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,last_seen_timestamp_dt,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+lifecycle_clean,last_seen_file,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+price_model,price_per_kw,True,Target leakage for price prediction because it is computed using price_eur.
+price_model,price_per_hp,True,Target leakage for price prediction because it is computed using price_eur.
+price_model,price_per_range_km,True,Target leakage for price prediction because it is computed using price_eur.
+survival,duration_days,True,Do not use as a feature unless it is the target or survival/censoring metadata.
+survival,event_sold_or_removed,True,Do not use as a feature unless it is the target or survival/censoring metadata.
