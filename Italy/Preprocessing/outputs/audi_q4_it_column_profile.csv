@@ -1,0 +1,58 @@
+,dtype,missing_count,missing_pct,unique_count,example
+secondary_scrape_error,float64,227,100.0,0,
+electric_range_city,float64,227,100.0,0,
+vat_deductible,float64,227,100.0,0,
+delivery_possible,float64,227,100.0,0,
+damage_conditions,object,226,99.6,1,Not suitable for riding
+battery_charging_time,object,224,98.7,3,29 min
+battery_ownership,object,222,97.8,1,Included
+has_360_image,object,217,95.6,1,True
+raw_card_text,object,207,91.2,19,"Audi Q4 e-tron 45 s line edition quattro 265cv Add to list 15 € 36,900 10/2023 48,410 km Electric 195 kW (265 hp) Autocentri Balduina Srl IT-00178 Roma - Rm + Show more vehicles"
+electric_range,object,144,63.4,29,494 km
+warranty_text,object,116,51.1,4,24 months
+wltp_co2_emissions,object,105,46.3,2,0 g/km (comb.)
+wltp_consumption,object,105,46.3,21,- (l/100 km)
+previous_owner_count,float64,100,44.1,3,1.0
+interior_color,object,95,41.9,5,Black
+upholstery_material,object,88,38.8,5,Alcantara
+price_superscript,float64,79,34.8,1,1.0
+paint_type,object,60,26.4,2,Metallic
+seller_rating_stars,float64,34,15.0,5,5.0
+seller_rating_count,float64,34,15.0,64,266.0
+seller_imprint_url,object,33,14.5,72,https://www.autoscout24.com/dealerinfo/autocentri-balduina-srl/imprint
+street,object,33,14.5,72,"Via Appia Nuova, 803"
+seller_name,object,33,14.5,67,Autocentri Balduina Srl
+variant,object,27,11.9,4,Q4 e-tron 45
+had_accident,object,21,9.3,1,False
+available_now,object,20,8.8,1,True
+exterior_color,object,15,6.6,6,Black
+seller_phone,object,10,4.4,89,+39 06 - 78461411
+has_full_service_history,object,8,3.5,2,False
+door_count,float64,6,2.6,1,5.0
+primary_image_url,object,4,1.8,223,https://prod.pictures.autoscout24.net/listing-images/8d7209f6-394c-454f-a474-b673e6502204_13861cb6-95d1-424f-80dd-cd57968eabfd.jpg/250x188.webp
+seat_count,float64,3,1.3,1,5.0
+warranty_exists,bool,0,0.0,2,True
+listing_url,object,0,0.0,227,https://www.autoscout24.com/offers/audi-q4-e-tron-45-s-line-edition-quattro-265cv-electric-black-8d7209f6-394c-454f-a474-b673e6502204
+secondary_scrape_status,object,0,0.0,1,ok
+body_type,object,0,0.0,3,SUV/Off-Road/Pick-Up
+listing_id,object,0,0.0,227,8d7209f6-394c-454f-a474-b673e6502204
+image_count,int64,0,0.0,24,15
+title,object,0,0.0,147,Audi Q4 e-tron 45 s line edition quattro 265cv
+subtitle,object,0,0.0,147,45 s line edition quattro 265cv
+model_group,object,0,0.0,1,Q4 e-tron
+transmission,object,0,0.0,1,Automatic
+price,object,0,0.0,134,"36,900"
+currency,object,0,0.0,1,€
+is_conditional_price,bool,0,0.0,2,False
+mileage,object,0,0.0,161,"48,410 km"
+first_registration,object,0,0.0,52,10/2023
+fuel_or_powertrain,object,0,0.0,2,Electric
+power_kw,int64,0,0.0,10,195
+power_hp,int64,0,0.0,10,265
+seller_type,object,0,0.0,2,Dealer
+dealer_id,int64,0,0.0,105,4198
+seller_info_url,object,0,0.0,105,https://www.autoscout24.com/dealerinfo/autocentri-balduina-srl?atype=C
+seller_location,object,0,0.0,103,IT-00178 Roma - Rm
+country_code,object,0,0.0,1,IT
+zip_code,int64,0,0.0,101,178
+city,object,0,0.0,98,Roma - Rm
